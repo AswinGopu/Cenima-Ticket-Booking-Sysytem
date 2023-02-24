@@ -1,0 +1,42 @@
+.div1{
+    border: 0px solid !important;
+    width: 200px;
+    height: 150px;
+    background-color: aqua;
+}
+.div2{
+    border: 0px solid !important;
+    width: 200px;
+    height: 150px;
+    background-color:red;
+}
+.div3{
+    border: 0px solid !important;
+    width: 200px;
+    height: 150px;
+    background-color:green;
+}
+.div4{
+    border: 0px solid !important;
+    width: 200px;
+    height: 150px;
+    background-color: yellow;
+}
+.div5{
+    border: 0px solid !important;
+    width: 200px;
+    height: 150px;
+    background-color: blue;
+}
+#img1{
+    width: 10px;
+    height: 10px;
+}
+.contentHover{
+    border: opx solid !important;
+    transition:0.1s;
+}
+.contentHover:hover{
+    transform: scale(1.1);
+}
+
